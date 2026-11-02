@@ -190,6 +190,10 @@ pip install -r requirements.txt
 cd frontend
 npm install
 ```
+```bash
+cd frontend
+xdg-open index.html
+```
 
 **Problem: Port 5000 already in use**
 
